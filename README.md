@@ -11,8 +11,3 @@ This repository contains a Jupyter Notebook showcasing various Python functions 
 ### 4. Check if a String is Palindrome
 ### 5. Calculate Factorial using Recursion
 ### 6. Read a File and Count the Frequency of Each Word
-
-
-## License
-
-This project is open-source and available under the MIT License.
